@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          你不一定要很厉害，才能开始。
+          但你要开始，才能很厉害！
         </a>
       </header>
     </div>
